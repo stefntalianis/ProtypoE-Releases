@@ -1,4 +1,4 @@
-- ExamArchitect
+- ProtypoE
 
 Project Overview: Academic Assessment Tool
 A high-performance desktop application developed for an academic faculty to streamline the exam creation process. This tool allows educators to generate, manage, and customize complex academic exams with a focus on data integrity and user-friendly design.
